@@ -1,0 +1,71 @@
+
+*{
+  text-decoration: none;
+}
+
+/******HEADER******/
+
+header{
+  font-family: 'Electrolize';
+}
+
+.TITLE{
+  background-color: black;
+  color: white;
+}
+#website_title{
+  left: auto;
+  right: auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+.MENU{
+  background-color: #FF3F33;
+}
+#nav_bar{
+  position : sticky;
+  left: auto;
+  right: auto;
+  text-align: center;
+  width : auto;
+  height: 32px;
+}
+.nav_bar_link{
+  margin : 0 15px;
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+}
+
+.nav_bar_link :hover{
+  text-decoration: underline;
+  border: 5px;
+}
+
+.cart_logo a img{
+  position: fixed;
+  right: 15px;
+  top : 108px;
+  width : 55px;
+}
+
+/******BODY******/
+
+body{
+  font-family: 'Electrolize';
+}
+
+/******FOOTER******/
+footer{
+  font-family: 'Electrolize';
+}
+#eseo_logo{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+#author{
+  position: fixed;
+  bottom: 0px;
+}

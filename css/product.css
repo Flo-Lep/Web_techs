@@ -1,0 +1,47 @@
+*{
+  align-items: center;
+}
+
+body{
+  font-family: 'Electrolize';
+}
+
+.product_comment{
+  align-items: center;
+  text-align: center;
+}
+
+#connection_msg{
+  font-size: 25px;
+}
+
+.product_view{
+  font-size: 20px;
+  text-align: center;
+  /*background-color: grey;*/
+}
+
+.product_review{
+  font-size: 20px;
+  text-align : center;
+  border-style : solid;
+  /*background-color: blue;*/
+}
+
+.product_view img{
+  width : 500px;
+}
+
+.element_header{
+  text-align: center;
+  /*background-color: red;*/
+}
+
+.element_body{
+  font-size: 12px;
+}
+
+#Product_name{
+  text-decoration: underline;
+  font-size: 30px;
+}

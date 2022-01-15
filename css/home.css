@@ -1,0 +1,17 @@
+body{
+  font-family: 'Electrolize';
+  /*background-image: url(../img/background.jpg);
+  background-size: cover;
+  background-color: rgba(0,0,255,0.1);*/
+}
+
+#connection_msg{
+  font-size: 25px;
+}
+
+#home_msg{
+  font-size: 30px
+}
+.home_text{
+  font-size: 25px
+}

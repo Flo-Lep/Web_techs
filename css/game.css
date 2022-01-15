@@ -1,0 +1,15 @@
+body{
+  font-family: 'Electrolize';
+}
+
+#connection_msg{
+  font-size: 25px;
+}
+
+#game_TITLE{
+  text-align: center;
+}
+
+#canvas{
+  align-items: center;
+}

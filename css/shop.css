@@ -1,0 +1,45 @@
+
+body{
+  font-family: 'Electrolize';
+}
+#main_title{
+ text-align: center;
+ font-size: 35px;
+}
+
+#connection_msg{
+  font-size: 25px;
+}
+
+.main{
+  /*display: flex;*/
+  margin-top : 80px;
+  /*background-color: grey;*/
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  /*flex-direction: row;*/
+}
+
+.element_img img{
+  width : 250px;
+  cursor: pointer;
+}
+
+.element_header{
+  text-align: center;
+  /*background-color: red;*/
+  width : 250px;
+}
+
+.item{
+  margin-right: 20px;
+  margin-left: 20px;
+  /*background-color: blue;*/
+  width : 250px;
+  display : inline-block;
+}
+
+#product_title{
+  text-decoration: underline;
+}

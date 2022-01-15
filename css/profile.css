@@ -1,0 +1,17 @@
+body{
+  font-family: 'Electrolize';
+}
+
+#connection_msg{
+  font-size: 25px;
+}
+
+#profile_title{
+  text-decoration: underline;
+  font-size: 21px;
+  font-style: bold;
+}
+
+#profile_information{
+  font-size: 16px;
+}
